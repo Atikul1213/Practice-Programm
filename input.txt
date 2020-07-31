@@ -1,0 +1,10 @@
+Min 1001 3.73
+Amin 1002 3.50
+John 1003 3.60
+Shikhor 1004 3.33
+Sharif 1005 3.15
+Harun 1006 3.75
+Anil 1007 3.50
+Saif 1008 3.70
+Shamim 1009 3.72
+Abhi 1010 3.62
